@@ -1,5 +1,5 @@
   <h1 align="center">Hi there👋, I'm johnsxiong</h1>
-  <h3 align="center">A passionate developer from Shenzhen China.</h3>
+  <h3 align="center">A developer from Shenzhen China.</h3>
 
   - 👨‍💻 All of my projects are available at
   [https://github.com/johnsxiong](https://github.com/johnsxiong) 
