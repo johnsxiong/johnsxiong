@@ -15,22 +15,6 @@
         width="40"
       />
     </a>
-    <a href="https://www.rabbitmq.com" rel="noreferrer" target="_blank">
-      <img
-        alt="rabbitMQ"
-        height="40"
-        src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-        width="40"
-      />
-    </a>
-    <a href="https://redis.io" rel="noreferrer" target="_blank">
-      <img
-        alt="redis"
-        height="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-        width="40"
-      />
-    </a>
     <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank">
       <img
         alt="typescript"
@@ -72,6 +56,22 @@
         alt="mysql"
         height="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        width="40"
+      />
+    </a>
+      <a href="https://www.rabbitmq.com" rel="noreferrer" target="_blank">
+      <img
+        alt="rabbitMQ"
+        height="40"
+        src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+        width="40"
+      />
+    </a>
+    <a href="https://redis.io" rel="noreferrer" target="_blank">
+      <img
+        alt="redis"
+        height="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
         width="40"
       />
     </a>
