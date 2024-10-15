@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><strong>Tools:</strong></td>
-    <td>Docker, Git, Nginx, RabbitMQ, Kafka, Postman</td>
+    <td>Docker, Git, Nginx, RabbitMQ, Kafka</td>
   </tr>
   <tr>
     <td><strong>Operating Systems:</strong></td>
