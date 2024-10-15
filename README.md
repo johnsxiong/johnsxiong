@@ -6,10 +6,10 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnsxiong](https://github.com/johnsxiong)
-- 💬 Ask me about \*\*Python, JavaScript, SQL\*\*
-- 🌱 I’m currently learning \*\*Machine Learning and Data Science\*\*
-- 📫 How to reach me: \*\*johnsxiong@example.com\*\*
-- ⚡ Fun fact: \*\*I love hiking and exploring new technologies\*\*
+- 💬 Ask me about **Python, JavaScript, SQL**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 📫 How to reach me: **johnsxiong@example.com**
+- ⚡ Fun fact: **I love hiking and exploring new technologies**
 
 <h3 align="left">My Tech Stack:</h3>
 <table>
